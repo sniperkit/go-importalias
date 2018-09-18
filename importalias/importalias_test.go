@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 // Copyright 2016 Palantir Technologies, Inc.
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
@@ -27,7 +32,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/palantir/go-importalias/importalias"
+	"github.com/sniperkit/snk.fork.palantir-go-importalias/importalias"
 )
 
 func TestImportAliasNoError(t *testing.T) {
